@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.304110
+# {'<1.0.0', '~>0.1.0', '>=0.0.5'}
+watchurl=https://rubygems.org/gems/unf/versions/(0\.[0-1](?:\.[0-9]{1,2})*)
